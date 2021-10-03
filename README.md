@@ -7,5 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-
+<div align="center">
 ## SINGLE PAGE CHAT APP
+    
+    <p> this is a single page chat application using laravel and livewire technologies</p>
+    <h2>Functionalities</h2>
+
+</div>
