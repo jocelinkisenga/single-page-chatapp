@@ -10,7 +10,12 @@
 <div align="center">
 ## SINGLE PAGE CHAT APP
     
-    <p> this is a single page chat application using laravel and livewire technologies</p>
+    <p> this is a single page chat application using laravel and livewire technologies </p>
     <h2>Functionalities</h2>
+     ** sign up
+    ** Login 
+    ** finding other users
+    ** Chatting
+    ** Login out
 
 </div>
