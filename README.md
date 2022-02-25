@@ -17,5 +17,6 @@
     ** finding other users
     ** Chatting
     ** Login out
+And so on
 
 </div>
