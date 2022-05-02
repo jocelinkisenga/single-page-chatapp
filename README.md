@@ -20,3 +20,7 @@
 And so on
 
 </div>
+<div>
+It was a big challenge to code this simple application
+For the club's challenge, developing an application by using laravel with
+Livewire is big interesting thing</div>
